@@ -1,37 +1,6 @@
-## Flutter Beautiful Login Page UI Design and Animation - Day 14
-
-```dart
-class Afgprogrammer extends Flutter100DaysOfCode {
-  video() {
-    return {
-      "title": "Flutter Beautiful Login Page UI Design and Animation",
-      "description": "Let's see how we can design a Login page UI and add some cool animation.",
-      "day": 14,
-      "videoLink": "https://youtu.be/txvyAO894DY"
-    }
-  }
-}
-```
-### [Watch it on Youtube](https://youtu.be/txvyAO894DY)
-
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
+![image](https://github.com/chrissss25/act1ulll/assets/144642553/e6dbe01b-2911-4340-bfbc-07a6f93b4c85)
+![image](https://github.com/chrissss25/act1ulll/assets/144642553/58303e89-bac0-4523-bc9e-f8de5ac4666e)
+links
+https://youtu.be/txvyAO894DY?si=MX5cRibV1YTq1voB
 
 
-## Development Setup
-Clone the repository and run the following commands:
-```
-flutter pub get
-flutter run
-```
-
-## ScreenShot
-
-<img src="assets/screenshot/one.png" height="500em" />
-
-## Links
-
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
